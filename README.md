@@ -11,3 +11,12 @@ My logfile
 * [nativescriptcommunity](nativescriptcommunity.slack.com/)
 
 ---
+
+#Rooms no Gitter
+
+--
+* [AureliaJs](https://gitter.im/aurelia/Discuss/)
+* [VueJs](https://gitter.im/vuejs/vue/)
+* [Typescript](https://gitter.im/Microsoft/TypeScript/)
+* [Webpack](https://gitter.im/webpack/webpack/)
+* [NodeJs](https://gitter.im/nodejs/node/)
